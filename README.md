@@ -8,7 +8,7 @@ The objective of this project is to identify the factors that are most strongly 
 
 The dataset contains information for 320 retail stores. It includes monthly sales, marketing spend, customer footfall, inventory availability, customer ratings, average discount percentage, staff count, store region and store type.
 
-### Dependent Variable
+### Dependent Variable 
 
 * Monthly Sales
 
